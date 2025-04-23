@@ -1,4 +1,4 @@
-# PHPGurukul Pre-School Enrollment System Project directory traversal vulnerability
+# PHPGurukul Pre-School Enrollment System Project directory traversal vulnerability(CVE-2025-28072)
 
 **PHPGurukul  Pre-School Enrollment System Project introduce**
    
