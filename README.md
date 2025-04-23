@@ -7,6 +7,7 @@
 **Vulnerability description**
 
    There is a security vulnerability in PHPGurukul Pre-School Enrollment System Project v1.0. The vulnerability is caused by a directory traversal vulnerability, which allows remote attackers to traverse directories and delete traversed files.
+   
 
  PHPGurukul Project address
 
